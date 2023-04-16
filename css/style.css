@@ -1,0 +1,93 @@
+body{
+	background-color: powderblue;
+}
+.box{
+	width: 100%;
+	height: 100px;
+	background-color: red;
+}
+.h{
+	width: 400pt;
+	height: 50pt;
+	background-color: #0000FF;
+}
+.a1{
+	width: 11em;
+	height: 4rem;
+	background-color: rgb(00,00,00);
+}
+.a2{
+	width: 110px;
+	height: 50px;
+	background-color: rgba(00,00,00,.7);
+}
+.b1{
+	color: blue;
+}
+.b2{
+	font-family: courier;
+}
+.b3{
+	font-size: 200%;
+
+	text-align: center;
+}
+.h{
+	text-align: center;
+}
+.t1{
+	background-color: dodgerblue;
+	text-align: center;
+}
+
+.t2{
+	background-color: tomato;
+	text-align: center;
+}
+.t3{
+	color: tomato;
+}
+.t4{
+	color: dodgerblue;
+}
+.t5{
+	color: mediumseagreen;
+}
+.p1{
+	border: 2px solid tomato;
+	text-align: center;
+}
+.p2{
+	border: 3px solid dodgerblue;
+	text-align: center;
+}
+.p3{
+	border: 4px solid mediumseagreen;
+	text-align: center;
+}
+.q1{
+	background-color: rgb(255,99,71);
+	text-align: center;
+}
+.q2{
+	background-color: #ff6347;
+	text-align: center;
+}
+.q3{
+	background-color: hsl(9,100%,64%);
+	text-align: center;
+}
+.q4{
+	background-color: rgba(255,99,71,.5);
+	text-align: center;
+}
+.q5{
+	background-color: hsl(9,100%,64%,.5);
+	text-align: center;
+}
+.c1{
+	color: blue;
+}
+.c2{
+	color: red;
+}
